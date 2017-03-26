@@ -1,0 +1,170 @@
+<?php
+// 8.2.2012 - Daewon Choe
+// remove Dani info
+?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Seoul Salon - Services</title>
+<link rel="stylesheet" type="text/css" href="include/style.css">
+<style type="text/css">
+<!--
+.style1 {font-size: 12px}
+.style3 {font-family: "Adobe Garamond Pro"}
+.style4 {
+	font-family: "Adobe Garamond Pro";
+	font-weight: bold;
+	font-size: 16px;
+}
+.style6 {
+	font-family: "Adobe Garamond Pro";
+	font-size: 16px;
+}
+.style7 {font-size: 16px; }
+.style8 {font-weight: bold; font-family: "Adobe Garamond Pro";}
+-->
+</style>
+</head>
+
+<body>
+
+<?php 
+    $default = "services"; 	
+    include 'include/header.php';
+?>
+  
+<table width="800" align="center">
+  <tr>
+    <td width="170" height="1206" valign="top" bordercolor="#ffffff" bgcolor="#FFFFFF">
+      <p class="style3"><img src="img/services/IMG_1377.jpg" alt="7" width="150" height="163" align="top" /></p>
+      <p class="style3">&nbsp;</p>
+      <p class="style3">&nbsp;</p>
+      <p class="style3"><img src="img/services/IMG_1378.jpg" alt="1" width="150" height="168" /></p>
+      <p class="style3">&nbsp;</p>
+      <p class="style3">&nbsp;</p>
+      <p><img src="img/services/IMG_1380.jpg" alt="2" width="150" height="136" /></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p><img src="img/services/IMG_1381.jpg" alt="3" width="150" height="132" /></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p><img src="img/services/IMG_1382.jpg" alt="4" width="150" height="144" /></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p><img src="img/services/IMG_1665.jpg" alt="5" width="150" height="152" /></p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p><img src="img/services/IMG_1666.jpg" alt="6" width="150" height="166" /></p>
+    </td>
+    <td width="460" align="center" valign="top" bordercolor="#ffffff" bgcolor="#FFFFFF"><p align="left"><span class="style1"></span></p>
+      <p align="left" class="style4"><u>Nicole Johnson</u></p>
+      <p align="left" class="style6"><strong>Hair Services</strong><br />
+        (All hair services include: Wash, Dry, Style, mini facial)<br />
+        Men’s Cut- $30.00<br />
+        Women’s Cut- $40.00+<br />
+        Shampoo/style-$30.00<br />
+        Blow out-$35.00<br />
+        Child’s Hair Cut(12 &amp; under) -$25.00<br />
+        Updo- $60.00+<br />
+        Braid-$20.00<br />
+        Clarifying Treatment-$25.00<br />
+        Malibu Treatment( swimmers) -$40.00<br />
+        Stress Relieving Scalp Massage and conditioning treatment-$30.00<br />
+        Bang Trim/Nape-Free<br />
+        
+        <p align="left" class="style6"><strong>Chemical Services</strong><br />
+        Perm-$70.00+<br />
+        Partial Perm-$50.00+<br />
+        Spiral Perm-$95.00+</p>
+        
+      <p align="left" class="style6"><strong>Color Services</strong><br />
+      	Glaze-$25.00<br />
+        Color-$55.00+<br />
+        Full Foil-$75.00+<br />
+        Partial Foil-$60.00+<br />
+        Corrective Color-Consultation Only<br />
+        Brow Tint-$20.00</p>
+        
+      <p align="left" class="style6"><strong>Waxing</strong><br />
+        Lip-$15.00<br />
+        Brow-$15.00<br />
+        Chin-$15.00<br />
+        Paraffin hand dip-$15.00 Seasonal</p>
+        
+      <p align="left" class="style6"><strong>Additional Services</strong><br />
+        Hair Extensions -Consultation</p>
+        
+      <p align="left" class="style6">&nbsp;</p>
+      
+      
+      <p align="left" class="style6"><strong><u>Jeanie Ferenz</u></strong><br />
+			<br />
+			<strong>Haircuts</strong><br />
+			Women-$50.00<br />
+			Men-$35.00<br />
+			Children 12 &amp; under-$25.00<br />
+			Shampoo &amp; Style-$45.00<br />			
+			Conditioning/Clarifying Treatments-$25.00<br /><br />
+			
+			<strong>Color</strong><br />
+			All-over hair color-$60.00<br />
+			Glaze-$25.00<br />
+			Single Process with foils-$95.00<br />
+			Mini Foil( 8-10 foils, one color)-$50.00<br />
+			Partial foil (one color)-$70.00<br />
+			Full Foil (one color) -$95.00<br />
+			Corrective color-requires consultation<br /><br />
+			
+			<strong>Perms</strong>-$65.00<br /><br />
+			
+			<strong>Waxing </strong><br />
+			Lip or brow-$15.00<br />
+			Chin-$15.00+<br />
+			Lash or brow tinting-$15.00<br />
+			Paraffin Hand dip-$15.00 (Seasonal)<br />
+			 <br />
+			
+			<p align="left" class="style6">&nbsp;</p>
+      
+      
+      <p align="left" class="style6"><strong><u>Mandy Zelm Peters</u></strong><br />
+			<br />
+			<strong>Prices</strong><br />
+			Mens Cut-$26.00<br />
+			Women Cut-$30.00<br />
+			College Student Cut-$20.00<br />
+			Senior Special-$12.00<br />			
+			Buzz Cuts-$15.00<br />
+			Eyebrow Wax-$12.00<br />
+			Ear Wax-$12.00<br />
+			Nose Wax-$12.00<br />
+			Paraffin Hand Dip-$15.00<br />			
+			<br />
+			All hair cut included an old school neck shave!
+			
+			 <br />
+			
+
+			 <br />
+			<br>
+
+<em>*All services include shampoo, stress relieving treatment and finishing style.</em><br />
+ <br />
+<em>Price listed are base price:</em><br />
+<em>* Long hair(below shoulders) add $10.00</em><br />
+<em>* Additional foil colors $5.00 each</em><br />
+ <br />
+<strong><em>Kindly provide a 24 hour notice if you need to change your appointment. </em></strong><br />
+<strong><em>*I reserve the right to charge for missed appintments without 24 hour notice.*</em></strong></p>
+      <p align="left" class="style6">&nbsp;</p>
+    </tr>
+</table>
+
+<?php
+	include 'include/footer.php';
+?>
+
+</body>
+</html>

@@ -1,0 +1,388 @@
+App.progressCountTotal = 48;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0872.JPG');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'IMG_0872.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0872_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0872_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0872_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0872_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0872_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0872_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0873.JPG');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'IMG_0873.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0873_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0873_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0873_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0873_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0873_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0873_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0874.JPG');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'IMG_0874.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0874_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0874_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0874_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0874_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0874_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0874_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0875.JPG');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'IMG_0875.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0875_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0875_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0875_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0875_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0875_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0875_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0876.JPG');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'IMG_0876.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0876_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0876_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0876_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0876_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0876_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0876_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0877.JPG');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'IMG_0877.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0877_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0877_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0877_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0877_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0877_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0877_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0986.JPG');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'IMG_0986.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0986_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0986_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0986_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0986_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0986_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0986_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0987.JPG');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'IMG_0987.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0987_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0987_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0987_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0987_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0987_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0987_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0988.JPG');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'IMG_0988.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0988_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0988_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0988_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0988_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0988_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0988_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0989.JPG');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'IMG_0989.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0989_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0989_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0989_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0989_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0989_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0989_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0990.JPG');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'IMG_0990.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0990_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0990_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0990_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0990_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0990_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0990_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0991.JPG');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'IMG_0991.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0991_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0991_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0991_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0991_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0991_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0991_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0992.JPG');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'IMG_0992.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0992_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0992_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0992_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0992_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0992_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0992_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0993.JPG');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'IMG_0993.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0993_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0993_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0993_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0993_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0993_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0993_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0994.JPG');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'IMG_0994.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0994_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0994_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0994_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0994_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0994_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0994_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0995.JPG');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'IMG_0995.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0995_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0995_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0995_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0995_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0995_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0995_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0996.JPG');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'IMG_0996.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0996_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0996_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0996_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0996_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0996_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0996_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_0997.JPG');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'IMG_0997.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0997_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0997_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_0997_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0997_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0997_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_0997_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1000.JPG');
+App.progressCountCurrent = 19;
+App.batchStatusString = 'IMG_1000.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1000_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1000_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1000_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1000_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1000_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1000_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1001.JPG');
+App.progressCountCurrent = 20;
+App.batchStatusString = 'IMG_1001.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1001_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1001_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1001_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1001_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1001_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1001_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1002.JPG');
+App.progressCountCurrent = 21;
+App.batchStatusString = 'IMG_1002.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1002_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1002_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1002_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1002_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1002_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1002_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1003.JPG');
+App.progressCountCurrent = 22;
+App.batchStatusString = 'IMG_1003.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1003_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1003_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1003_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1003_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1003_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1003_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1004.JPG');
+App.progressCountCurrent = 23;
+App.batchStatusString = 'IMG_1004.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1004_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1004_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1004_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1004_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1004_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1004_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1147.JPG');
+App.progressCountCurrent = 24;
+App.batchStatusString = 'IMG_1147.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1147_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1147_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1147_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1147_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1147_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1147_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1148.JPG');
+App.progressCountCurrent = 25;
+App.batchStatusString = 'IMG_1148.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1148_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1148_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1148_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1148_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1148_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1148_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1149.JPG');
+App.progressCountCurrent = 26;
+App.batchStatusString = 'IMG_1149.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1149_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1149_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1149_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1149_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1149_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1149_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1150.JPG');
+App.progressCountCurrent = 27;
+App.batchStatusString = 'IMG_1150.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1150_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1150_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1150_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1150_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1150_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1150_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1171.JPG');
+App.progressCountCurrent = 28;
+App.batchStatusString = 'IMG_1171.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1171_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1171_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1171_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1171_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1171_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1171_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1172.JPG');
+App.progressCountCurrent = 29;
+App.batchStatusString = 'IMG_1172.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1172_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1172_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1172_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1172_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1172_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1172_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1173.JPG');
+App.progressCountCurrent = 30;
+App.batchStatusString = 'IMG_1173.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1173_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1173_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1173_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1173_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1173_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1173_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1175.JPG');
+App.progressCountCurrent = 31;
+App.batchStatusString = 'IMG_1175.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1175_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1175_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1175_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1175_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1175_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1175_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1176.JPG');
+App.progressCountCurrent = 32;
+App.batchStatusString = 'IMG_1176.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1176_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1176_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1176_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1176_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1176_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1176_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1177.JPG');
+App.progressCountCurrent = 33;
+App.batchStatusString = 'IMG_1177.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1177_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1177_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1177_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1177_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1177_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1177_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1187.JPG');
+App.progressCountCurrent = 34;
+App.batchStatusString = 'IMG_1187.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1187_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1187_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1187_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1187_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1187_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1187_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1188.JPG');
+App.progressCountCurrent = 35;
+App.batchStatusString = 'IMG_1188.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1188_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1188_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1188_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1188_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1188_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1188_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1189.JPG');
+App.progressCountCurrent = 36;
+App.batchStatusString = 'IMG_1189.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1189_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1189_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1189_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1189_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1189_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1189_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1190.JPG');
+App.progressCountCurrent = 37;
+App.batchStatusString = 'IMG_1190.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1190_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1190_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1190_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1190_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1190_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1190_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1191.JPG');
+App.progressCountCurrent = 38;
+App.batchStatusString = 'IMG_1191.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1191_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1191_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1191_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1191_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1191_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1191_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1192.JPG');
+App.progressCountCurrent = 39;
+App.batchStatusString = 'IMG_1192.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1192_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1192_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1192_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1192_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1192_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1192_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1273.JPG');
+App.progressCountCurrent = 40;
+App.batchStatusString = 'IMG_1273.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1273_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1273_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1273_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1273_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1273_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1273_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1274.JPG');
+App.progressCountCurrent = 41;
+App.batchStatusString = 'IMG_1274.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1274_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1274_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1274_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1274_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1274_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1274_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1276.JPG');
+App.progressCountCurrent = 42;
+App.batchStatusString = 'IMG_1276.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1276_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1276_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1276_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1276_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1276_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1276_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1277.JPG');
+App.progressCountCurrent = 43;
+App.batchStatusString = 'IMG_1277.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1277_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1277_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1277_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1277_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1277_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1277_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1278.JPG');
+App.progressCountCurrent = 44;
+App.batchStatusString = 'IMG_1278.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1278_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1278_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1278_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1278_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1278_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1278_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1279.JPG');
+App.progressCountCurrent = 45;
+App.batchStatusString = 'IMG_1279.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1279_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1279_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1279_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1279_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1279_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1279_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1281.JPG');
+App.progressCountCurrent = 46;
+App.batchStatusString = 'IMG_1281.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1281_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1281_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1281_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1281_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1281_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1281_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1282.JPG');
+App.progressCountCurrent = 47;
+App.batchStatusString = 'IMG_1282.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1282_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1282_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1282_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1282_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1282_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1282_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///D|/Docs/Seoul Project/photos/renovations/IMG_1284.JPG');
+App.progressCountCurrent = 48;
+App.batchStatusString = 'IMG_1284.JPG';
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1284_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1284_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/images/IMG_1284_JPG.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1284_JPG.jpg') || confirm('file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1284_JPG.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///D|/Docs/Seoul Project/www.SeoulSalonINC.com/img/store/renovations/thumbnails/IMG_1284_JPG.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-100, ySize:-100}));
+fw.closeDocument(doc);
+'done';

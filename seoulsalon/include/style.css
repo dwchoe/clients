@@ -1,0 +1,25 @@
+a.menu:hover, a.menu:visited, a.menu:link, a.menu:active {
+    text-decoration: none;
+    font-family:"arial","sans-serif";
+    font-size: 12px;
+    font-weight:bold;
+    color:black;
+}
+
+a.menu:hover {color:#ff0694;}
+
+a.menu_default:hover, a.menu_default:visited, a.menu_default:link, a.menu_default:active {
+    text-decoration: none;
+    font-family:"arial","sans-serif";
+    font-size: 12px;
+    font-weight:bold;
+    color:grey;
+}
+
+a.join_mailing_list:hover, a.join_mailing_list:visited, a.join_mailing_list:link, a.join_mailing_list:active {
+    text-decoration: none;
+    font-family:"arial","sans-serif";
+    font-size: 12px;
+    font-weight:bold;
+    color:#ff0694;
+}
