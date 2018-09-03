@@ -1,2 +1,2 @@
-<p align="center">Seoul Salon Inc. • 274 Snelling Ave S, St. Paul, MN, 55105 • (651) 699-6441<br />
+<p align="center">Seoul Salon Inc. @ Phenix Salon Suites <a href="https://goo.gl/maps/bQZUwNcCSsk" target=”_blank” >map</a><br/> 2480 Fairview Ave North Suite #119, Room #108 <br/> Roseville, MN 55113 <br/> (612) 232-4080<br />
 <a href="Email.php">seoulsaloninc@live.com</a>

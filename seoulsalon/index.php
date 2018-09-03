@@ -108,19 +108,14 @@ span {
 	      						<img src="img/store/schedule_button_out_Nicole.jpg" onmouseover="this.src='img/store/schedule_button_over_Nicole.jpg';" onmouseout="this.src='img/store/schedule_button_out_Nicole.jpg';" border="0">
 	      					</a>
 	      					<a href="Stylists.php"><img src="img/staff/nicole_small.jpg" border="0"/></a>
-	      					<b>Nicole's Special</b><br>
-									-Special offer with your first salon visit<br>
-									-We value your introductions, for each new referral receive $10.00 off your next service.
+	      					<b>Nicole</b>
 						</td>
 						<td>
 							<a href="scheduleJeanie.php">
       							<img src="img/store/schedule_button_out_Jeanie.jpg" onmouseover="this.src='img/store/schedule_button_over_Jeanie.jpg';" onmouseout="this.src='img/store/schedule_button_out_Jeanie.jpg';" border="0">
       						</a>
 							<a href="Stylists.php"><img src="img/staff/jeanie_small.jpg" border="0"/></a>
-							<b>Jeanie's Special</b><br>
-							- Receive an eyelash or brow tint on sale for $10.00. (regular price<br>
-							&nbsp;&nbsp;$15.00) with Jeanie.<br>
-							&nbsp;&nbsp;(valid only with Jeanie, not valid with other promotions)
+							<b>Jeanie</b>
 						</td>
 						<td>
 							<a href="scheduleRachel.php">

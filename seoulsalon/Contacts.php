@@ -56,13 +56,14 @@
       <p class="style1">&nbsp;</p>
       <p>
       	<em><br />
-        274 Snelling Ave S<br />
-        St. Paul, MN, 55105<br />
+        Seoul Salon Inc. @ Phenix Salon Suites <br/>
+        2480 Fairview Ave North Suite #119 <br/> Room #108<br />
+        Roseville, MN 55113<br />
       	</em>
       </p>
       <p>
       	<em>To schedule an appointment <br>
-      	call: 651-699-6441
+      	call: (612) 232-4080
 				<br/>
        </em>
       </p>
@@ -98,9 +99,9 @@
   <tr>
   	<td colspan="2">
   		<br>
-  		Map / Click the "View Larger Map" link to get directions
+  		Map and Directions to Seoul Salon
   		<br>
-  		<iframe style="height: 300px; width: 800px;" src="http://www.mapquest.com/embed?hk=1m9kq1z" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9006.210467859968!2d-93.17195366539218!3d45.01601313500232!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb7b9ba5b230339e!2sPhenix+Salon+Suites!5e0!3m2!1sen!2sus!4v1535825605502" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
   	</td>
   </tr>
 </table>
